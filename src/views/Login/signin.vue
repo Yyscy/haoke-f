@@ -1,8 +1,5 @@
 <template>
-  <div>
-    <div>aa</div>
-    <router-view />
-  </div>
+  <div>注册</div>
 </template>
 
 <script>

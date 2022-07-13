@@ -1,8 +1,5 @@
 <template>
-  <div>
-    <div>aa</div>
-    <router-view />
-  </div>
+  <div>登录</div>
 </template>
 
 <script>
